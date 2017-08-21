@@ -149,7 +149,7 @@ class ABHodFitModel():
     Takes keyword arguments ndim and nwalkers.
     """
     if ('ndim' in kwargs.keys()):
-			self.ndim=kwargs['ndim']
+	self.ndim=kwargs['ndim']
 
     if ('nwalkers' in kwargs.keys()):
     	self.nwalkers=kwargs['nwalkers']

@@ -1,0 +1,7 @@
+central:False
+Lbox:420
+outfile:072917_wp
+Vmax:0.0
+td:0
+infile:['../ABMCMCfiles/corr1_wp20.0.abfit.covar.chain', '../ABMCMCfiles/corr1_wp20.0.covar.chain']
+Nparams:1000
